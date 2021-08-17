@@ -1,0 +1,5 @@
+Readmission Use Case
+Source: 10K Diabetes data set from Kaggle
+Use Case Details: The use case combines clinical and demographic for diabetes patients that were admitted to the hospital. 
+The target variable is “Readmitted” which indicates whether a patient was readmitted back to the hospital within 30 days of discharge.
+Size: 10k records with 25 fields containing numerical, categorical and text features.
